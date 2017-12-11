@@ -7,20 +7,20 @@
     tools:context="com.johnnyandsons.meow.hashtagretriever.DisplayResults">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/display_results"
         android:layout_width="386dp"
         android:layout_height="635dp"
         android:layout_marginBottom="1dp"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginTop="8dp"
-        android:scrollbars="vertical"
-        android:textAlignment="inherit"
         android:autoLink="web"
+        android:scrollbars="vertical"
+        android:text="Results Here...."
+        android:textAlignment="inherit"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.444"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.585" />
+        app:layout_constraintVertical_bias="0.593" />
 </android.support.constraint.ConstraintLayout>

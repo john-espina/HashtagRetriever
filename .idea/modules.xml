@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HashtagRetriever.iml" filepath="$PROJECT_DIR$/HashtagRetriever.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HashtagRetriever.iml" filepath="$PROJECT_DIR$/.idea/HashtagRetriever.iml" />
+      <module fileurl="file://E:\Program Files\HashtagRetriever\HashtagRetriever.iml" filepath="E:\Program Files\HashtagRetriever\HashtagRetriever.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\Program Files\HashtagRetriever\app\app.iml" filepath="E:\Program Files\HashtagRetriever\app\app.iml" />
     </modules>
   </component>
 </project>
